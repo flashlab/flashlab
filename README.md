@@ -1,16 +1,16 @@
 ## Hello there <sup>👋</sup>  
 
-My name is **_Jacky_**.  
+My name is **_Jeff_**.  
 
 I'm a:  
 
-- Front-end Developer <sup>💻</sup>   
-- Music Producer <sup>🎵</sup>      
+- Biology company employee <sup>🧬</sup>   
+- Technology amateur <sup>📱</sup>    
 
 Latest update on my blog:
   
-- [Trim things down](https://jw1.dev/trim-things-down) 
-- [再谈 Web 音频可视化](https://jw1.dev/2024/05/29/audio-visualization-in-js) 
-- [写博客的意义](https://jw1.dev/2024/04/11/meaning-of-blog) 
-- [重构 M42](https://jw1.dev/2024/04/03/remaking-m42) 
-- [博客评论系统：从GitHub OAuth应用迁移到GitHub应用](https://jw1.dev/2024/01/18/migrating-oauth-app-to-github-app) 
+- [Z 周刊 #03：自然博物馆的奇妙之旅](https://blog.zzbd.org/weekly-dairy3/) 
+- [Comment plugin for hexo, Why is Twikoo](https://blog.zzbd.org/cf-twikoo/) 
+- [Z 周刊 #02：红酒配盖浇饭](https://blog.zzbd.org/weekly-dairy2/) 
+- [Z 周刊 #01：儿童节的农场派对](https://blog.zzbd.org/weekly-diary/) 
+- [FreshRSS 通过 Xpath 抓取订阅源](https://blog.zzbd.org/freshrss-xpath/) 
