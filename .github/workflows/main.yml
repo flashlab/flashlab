@@ -16,12 +16,21 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 18.x
+      - name: Cache NPM dependencies
+        uses: actions/cache@v2
+        with:
+          path: node_modules
+          key: ${{ runner.OS }}-npm-cache-${{ hashFiles('package-lock.json') }}
+          restore-keys: |
+            ${{ runner.OS }}-npm-cache-
+      - name: Install Dependencies
+        run: npm install
       - name: run script
         run: node update.mjs
       - name: commit changes
         uses: EndBug/add-and-commit@v9
         with:
           add: README.md
-          author_name: jacky (github action)
-          author_email: 29943110+jw-12138@users.noreply.github.com
+          author_name: Jeff (github action)
+          author_email: zhengjuefei25@163.com
           push: true

@@ -1,13 +1,17 @@
 import fs from 'fs'
+import { createRequire } from 'module'
+const require = createRequire(import.meta.url)
+let Parser = require('rss-parser')
+let parser = new Parser()
 
 const fixedMarkdownContent = `## Hello there <sup>👋</sup>  
 
-My name is **_Jacky_**.  
+My name is **_Jeff_**.  
 
 I'm a:  
 
-- Front-end Developer <sup>💻</sup>   
-- Music Producer <sup>🎵</sup>      
+- Biology company employee <sup>🧬</sup>   
+- Technology amateur <sup>📱</sup>    
 
 Latest update on my blog:
   
@@ -15,13 +19,12 @@ Latest update on my blog:
 
 let newPostsMarkdownContent = ''
 
-let remoteContent = await fetch('https://jw1.dev/posts.json')
-
-let posts = await remoteContent.json()
+let feed = await parser.parseURL('https://blog.zzbd.org/atom.xml')
+console.log(feed.title);
 
 // keep only 5
-posts.slice(0, 5).forEach(post => {
-  newPostsMarkdownContent += `- [${post.title}](https://${post.url}) \n`
+feed.items.forEach(post => {
+  newPostsMarkdownContent += `- [${post.title}](${post.link}) \n`
 })
 
 fs.writeFileSync('./README.md', fixedMarkdownContent + newPostsMarkdownContent)

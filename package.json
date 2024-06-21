@@ -1,0 +1,22 @@
+{
+  "name": "github-readme",
+  "version": "1.0.0",
+  "description": "auto generate github readme on homepage",
+  "main": "update.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flashlab/flashlab.git"
+  },
+  "author": "Jeff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flashlab/flashlab/issues"
+  },
+  "homepage": "https://github.com/flashlab/flashlab#readme",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
