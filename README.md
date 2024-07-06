@@ -9,8 +9,8 @@ I'm a:
 
 Latest update on my blog:
   
+- [[转载] 没有执行力，idea is cheap](https://blog.zzbd.org/ideaischeap/) 
 - [Improve Cloudflare R2 web uploader as Alist's image bed alternative](https://blog.zzbd.org/cf-r2-uploader/) 
 - [Giffgaff 实体卡解决 Telegram 登录难题](https://blog.zzbd.org/giffgaff/) 
 - [古往今来的夏日烦恼——蚊子](https://blog.zzbd.org/wenzi/) 
 - [Z 周刊 #03：自然博物馆的奇妙之旅](https://blog.zzbd.org/weekly-dairy3/) 
-- [Comment plugin for hexo, Why is Twikoo](https://blog.zzbd.org/cf-twikoo/) 
