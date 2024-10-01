@@ -9,8 +9,8 @@ I'm a:
 
 Latest update on my blog:
   
+- [N100 小主机搭配甲骨文 VPS，对 AIO 说拜拜](https://blog.zzbd.org/mini-host-n100/) 
 - [switch入正，旷野之息沉迷ing](https://blog.zzbd.org/switch-zelda/) 
 - [⚡🎮 另一半Ⅱ](https://blog.zzbd.org/game-the-other-half2/) 
 - [Cloudflare's TURN Service as signaling server of Pairdrop deploying on QNAP](https://blog.zzbd.org/en/cf-pairdrop/) 
 - [重拾 flash 小游戏，给博客用上 Ruffle](https://blog.zzbd.org/flash-ruffle/) 
-- [Utilize QtScrcpy and ToDesk to control Android Q remotely](https://blog.zzbd.org/en/remote-scrapy/) 
