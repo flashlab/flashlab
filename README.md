@@ -9,8 +9,8 @@ I'm a:
 
 Latest update on my blog:
   
-- [守心定气，沉稳立身：国学智慧修心态养气场](https://blog.zzbd.org/miao20260825/) 
-- [籍古安心：五经经典箴言修心稳志文](https://blog.zzbd.org/miao20260824/) 
-- [稳住心态，日日修身](https://blog.zzbd.org/miao20260821-2/) 
-- [『周易』十条办公室处事之道](https://blog.zzbd.org/miao20260821/) 
-- [人间颜色](https://blog.zzbd.org/miao202608/) 
+- [AI 小项目盘点：第一期](https://blog.zzbd.org/vibe-project-1/) 
+- [守静笃行，沉心向上——国学修身稳心进阶](https://blog.zzbd.org/miao20260828-2/) 
+- [守心立身，厚积致远｜国学修身励志](https://blog.zzbd.org/miao20260828-1/) 
+- [以太极之道修职场心境：沉心定气，稳住职场气场](https://blog.zzbd.org/miao20260827/) 
+- [中庸潜心：职场定心沉气修身](https://blog.zzbd.org/miao20260826/) 
