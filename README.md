@@ -9,8 +9,8 @@ I'm a:
 
 Latest update on my blog:
   
-- [无需忧虑 无需挂虑](https://blog.zzbd.org/miao20260903-3/) 
-- [AI 小项目盘点：第一期](https://blog.zzbd.org/vibe-project-1/) 
-- [《菜根谭》潜心定心篇：褪去惶恐，沉气立身](https://blog.zzbd.org/miao20260903-5/) 
-- [沉心自愈：成年人最顶级的清醒，是向内安顿自己](https://blog.zzbd.org/miao20260903-1/) 
-- [习武筑基养气，国学定心修身](https://blog.zzbd.org/miao20260902/) 
+- [新约经文选读｜稳住心神](https://blog.zzbd.org/miao20260914/) 
+- [心沉则安，静待风平](https://blog.zzbd.org/miao20260911-3/) 
+- [静息心澜](https://blog.zzbd.org/miao20260911/) 
+- [守心自安，于喧嚣中安顿灵魂](https://blog.zzbd.org/miao20260911-2/) 
+- [安静到极点](https://blog.zzbd.org/miao20260910/) 
