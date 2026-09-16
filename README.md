@@ -9,8 +9,8 @@ I'm a:
 
 Latest update on my blog:
   
+- [办公室修身养性｜静守心神，安稳度日](https://blog.zzbd.org/miao20260915/) 
+- [新约经文静心选读｜守住心神，安然直到下班](https://blog.zzbd.org/miao20260915-2/) 
+- [新约经文｜保守内心，远离诡诈，放下算计](https://blog.zzbd.org/miao20260914-2/) 
 - [新约经文选读｜稳住心神](https://blog.zzbd.org/miao20260914/) 
 - [心沉则安，静待风平](https://blog.zzbd.org/miao20260911-3/) 
-- [静息心澜](https://blog.zzbd.org/miao20260911/) 
-- [守心自安，于喧嚣中安顿灵魂](https://blog.zzbd.org/miao20260911-2/) 
-- [安静到极点](https://blog.zzbd.org/miao20260910/) 
