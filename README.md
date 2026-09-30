@@ -9,8 +9,8 @@ I'm a:
 
 Latest update on my blog:
   
-- [慢，是一种顶级的判断力](https://blog.zzbd.org/miao20260918/) 
-- [新旧约通读，以获得安息](https://blog.zzbd.org/miao20260917-2/) 
-- [今日祷文](https://blog.zzbd.org/miao20260917/) 
-- [办公室读旧约](https://blog.zzbd.org/miao20260916/) 
-- [办公室修身养性｜静守心神，安稳度日](https://blog.zzbd.org/miao20260915/) 
+- [向内扎根，重建完整自我](https://blog.zzbd.org/miao20260924/) 
+- [收回权限，重建自己](https://blog.zzbd.org/miao20260924-2/) 
+- [与爱PUA的人相处的完整版生存法则](https://blog.zzbd.org/miao20260924-3/) 
+- [稳住，平静到下班：停止内耗，把剩下的工作时间轻轻走完](https://blog.zzbd.org/miao20260923/) 
+- [沉得住气，稳得住心，成得了事：成年人顶级的核心竞争力](https://blog.zzbd.org/miao20260922/) 
